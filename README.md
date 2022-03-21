@@ -49,12 +49,18 @@ pip install PyQt5 --user
 
 > [Gantt Chart](/gantt_chart.py) for generating gantt chart.
 
-> [For Scheduling Algorithms](/algorithm.py) for generating table with Avg. TurnAroundTime & Avg.Waiting Time.
+> [For Scheduling Algorithms](/algorithms.py) for generating table with Avg. TurnAroundTime & Avg.Waiting Time.
 
 ## Instructions
+**For Running Gantt Chart**
 ```shell
-
+python gantt_chart.py
 ```
+**For Viewing Table and Generating avg. TAT & WT**
+```shell
+python algorithms.py
+```
+
 ## ScreenShots
 [Click Here](/screenshots)
 
